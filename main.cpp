@@ -11,7 +11,7 @@ int main(){
     srand(time(0));
     do{
         tries =0;
-    srand(time(0));
+    
     num = rand() % 100 + 1;
 
     cout<<"============ NUMBER GUESSING GAME ============\n";
